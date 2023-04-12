@@ -55,7 +55,8 @@ read_data_task >> load_data_task
 ```
 
 #### PySpark Dataflow
-![img](/assets/Drawing%20pyspark%20to%20GCS%20and%20GCP.drawio.png)
+![data model](https://user-images.githubusercontent.com/25885092/231314898-f10b698b-45ae-417d-a5f2-c69c957340c9.jpeg)
+
 
 ### Installation and Usage Guidelines
 
